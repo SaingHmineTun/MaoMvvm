@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MaoMvvm</string>
+    <string name="enter_number">Number</string>
+    <string name="plus">+</string>
+    <string name="click_to_add">Click to Add</string>
+    <string name="adding_calculator">ADDING CALCULATOR</string>
+    <string name="result">RESULT</string>
+    <string name="_0">0</string>
+</resources>
